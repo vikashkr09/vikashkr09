@@ -69,13 +69,11 @@ SQL + Power BI KPIs & dashboards.
   <img src="https://streak-stats.demolab.com?user=vikashkr09&theme=tokyonight&hide_border=false" />
 </p>
 
+---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,git,docker,github,mysql,postgres,redis,kafka" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=linux,azure,cloudflare,gcp" />
+  <img src="https://skillicons.dev/icons?i=python,git,docker,github,mysql,postgres,redis,kafka,linux,azure,cloudflare,gcp" />
 </p>
-
 
 ---
 
