@@ -56,7 +56,7 @@ SQL + Power BI KPIs & dashboards.
 
 ---
 
-## 📊 GitHub Stats (Working Now ✔️)
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vikashkr09&show_icons=true&theme=tokyonight" height="160"/>
@@ -64,26 +64,27 @@ SQL + Power BI KPIs & dashboards.
 
 ---
 
-## 🔥 GitHub Streak (Fixed ✔️)
+## 🔥 GitHub Sreak
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=vikashkr09&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com?user=vikashkr09&theme=tokyonight&hide_border=false" />
 </p>
+
 
 ---
 
 ## 🏆 GitHub Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vikashkr09&theme=tokyonight&margin-w=10"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=vikashkr09&theme=tokyonight&margin-w=5" />
 </p>
 
 ---
 
-## 🎉 Fun Animated Skill Icons
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,git,docker,github,mysql,postgres,redis,kafka" />
+  <img src="https://skillicons.dev/icons?i=python,sql,git,docker,github,airflow,azure,gcp,kafka" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=linux,azure,cloudflare,gcp" />
+  <img src="https://skillicons.dev/icons?i=linux,postgres,mysql" />
 </p>
+
 
 ---
 
