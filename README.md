@@ -1,7 +1,8 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d6123989-8965-4bb0-865e-0d0b4419f4e8" width="100%" alt="Vikash Banner">
+  <img src="https://github.com/user-attachments/assets/9781d7fb-7fb7-474f-a0bf-806e6c52effd" width="100%" alt="Vikash Banner"/>
 </p>
+
 
 <h1 align="center">👋 Hi, I'm Vikash</h1>
 <h3 align="center">Aspiring Data Engineer • Data Analyst • Exploring RAG & LLMs</h3>
