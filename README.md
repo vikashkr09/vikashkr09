@@ -70,19 +70,10 @@ SQL + Power BI KPIs & dashboards.
 </p>
 
 
----
-
-## 🏆 GitHub Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vikashkr09&theme=tokyonight&margin-w=5" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,sql,git,docker,github,airflow,azure,gcp,kafka" />
+  <img src="https://skillicons.dev/icons?i=python,git,docker,github,mysql,postgres,redis,kafka" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=linux,postgres,mysql" />
+  <img src="https://skillicons.dev/icons?i=linux,azure,cloudflare,gcp" />
 </p>
 
 
