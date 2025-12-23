@@ -60,18 +60,23 @@ SQL + Power BI KPIs & dashboards.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vikashkr09&show_icons=true&theme=tokyonight" height="160"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=vikashkr09&show_icons=true&theme=tokyonight" 
+    height="170"
+  />
 </p>
 
 ---
 
 ## ⭐ GitHub Stats
+
 <p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=vikashkr09&show_icons=true&theme=tokyonight" 
-    alt="GitHub Stats"
+    height="170"
   />
 </p>
+
 
 ---
 
