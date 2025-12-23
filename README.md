@@ -77,14 +77,21 @@ SQL · BI Dashboards · KPI Analysis
 ## ⭐ GitHub Stats 
 
 <p align="center">
+
+  <!-- GitHub Stats -->
   <img 
     src="https://github-readme-stats.vercel.app/api?username=vikashkr09&show_icons=true&theme=tokyonight&hide_border=true"
-    height="170"
+    height="180"
+    width="420"
   />
+
+  <!-- Top Languages -->
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikashkr09&layout=compact&theme=tokyonight&hide_border=true"
-    height="170"
+    height="180"
+    width="420"
   />
+
 </p>
 
 ---
