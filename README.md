@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/9781d7fb-7fb7-474f-a0bf-806e6c52effd" width="100%" alt="Vikash Banner"/>
+  <img width="1536" height="485" alt="Image" src="https://github.com/user-attachments/assets/45102f7b-f682-47c8-86d2-9217d5b99991" />
 </p>
 
 
